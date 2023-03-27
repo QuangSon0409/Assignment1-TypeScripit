@@ -1,0 +1,12 @@
+button {
+  width: 50px;
+  height: 50px;
+  background-color: #14dbac;
+  font-weight: 700;
+  font-size: 18px;
+  color: white;
+}
+
+.winner {
+  background-color: brown;
+}
